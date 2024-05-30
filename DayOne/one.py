@@ -7,15 +7,24 @@ file.update(
      {
           "name":"bibash",
           'gender':"male",
+          "names":{
+             "parent":[
+                "father",
+                "mother"
+             ]
+               
+          }
      }
 ),
 
-print(file['gender']);
+print(file["names"]["parent"]);
 
-## loop examples
+
+# loop examples
 number=[1,2,3,4,5,6,7,8];
 for num in number:
-     print("num is"+str(num));
+     print("num is"+str(num),);
+
 
 i=1;
 while i<=6:

@@ -11,3 +11,9 @@ def  count_frequencies(Liststr):
 words = ["apple", "banana", "apple", "orange", "banana", "apple"]
 
 print(count_frequencies(words))
+
+dicto={
+     "a":"asd",
+     "sd":"apple"
+}
+print(dicto["a"])

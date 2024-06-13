@@ -1,0 +1,3 @@
+Anand 90 40 20
+Bibash 70 90 99
+Sita 90 88 40

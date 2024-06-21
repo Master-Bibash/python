@@ -1,4 +1,7 @@
 This is a python language from normal to beginner with django as well lets gooo.
+<<<<<<< HEAD
+all programs are done from easier to hard .
+=======
 ----------------------------------------------------------------------------------------------------NOTES----------------------------------------------------------------------------
 #data type stores the space for varibale
 ## division / gives float so 10/2=5.0
@@ -13,3 +16,4 @@ This is a python language from normal to beginner with django as well lets gooo.
 
 #comparion operator
 #string by (harsn vashisnt) or (corey schafer) string slishing
+>>>>>>> 4fce715c68c8bfbb9a8ad0ad48284e2ec241c161

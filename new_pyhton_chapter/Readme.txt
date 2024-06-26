@@ -21,3 +21,7 @@ endswith
 startswith 
 index
 count
+
+"-------------------------------------------------------------------------"
+tuples : used when the values are constant ,hetegerorus (multiple values) it is imuatable but list is mutable
+set:set() is a empty set and set is hetegegerous and it does not allow repeatation of values.Elements are distinct it does not have order and does not have index . it is not indexed so we use add rather than inser and append

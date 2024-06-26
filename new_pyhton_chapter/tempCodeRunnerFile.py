@@ -1,2 +1,4 @@
-name="bibash"
-print(name[::-1])
+names2=["ram","syham","ram","rita"]
+# myset=set(names2)
+# print(myset)
+# print(set2)

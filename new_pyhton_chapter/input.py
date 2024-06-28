@@ -21,3 +21,16 @@ elif a==b:
      print("a is b are equal")
 else:
           print("not equal")
+
+
+a=None
+# name=input("enter your name ")
+# print(type(name))
+#write a program that takes a number as user input and print whether the number is odd or even
+num=int(input("enter a number "))
+if num%2==0:
+     print(f"{num} is even")
+elif num%2!=0:
+     print(f"{num} is odd")
+
+

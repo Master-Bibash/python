@@ -3,9 +3,17 @@ for i in range(10):
 i=0
 while i in range(5):
      print(i)
-<<<<<<< HEAD
      i+=1
 
-=======
-     i+=1
->>>>>>> 4bc496a08cf94efdc4e95a6eb4d2029e7450923f
+num=0
+while (num < 5):
+    print(f"num is {num}")
+    num = num+1
+else:
+     print("done")
+
+
+     
+
+
+     

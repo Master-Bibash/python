@@ -13,7 +13,6 @@ else:
      print("done")
 
 
-     
+for item in range(0,11,2):
+     print(item)
 
-
-     

@@ -8,6 +8,7 @@ mydict={
      "phone":9876543210,
      "email":"bibash.com"
 }
+print(len(mydict.items()))
 print(mydict.get("email"))
 print(mydict.keys())
 mydict['address']="sindhuli"

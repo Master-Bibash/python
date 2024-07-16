@@ -1,7 +1,7 @@
-# functaion takes agrument tht tkaes number if true even or false if odd
-# function takes argument takes string and return the reverse of string
-# function that takes string and retrurns length
-# function takes string as argument and treturns the fitst letter/char fo string
+# functaion takes agrument tht tkaes number if true even or false if odd.
+# function takes argument takes string and return the reverse of string.
+# function that takes string and retrurns length.
+# function takes string as argument and treturns the fitst letter/char fo string.
 # functuoin taht takesa a string and return true if the first char is upper or false is returned
 # function takes a string as argu that returns a last char of string
 # function takes a string and checks whether degit is present in the string

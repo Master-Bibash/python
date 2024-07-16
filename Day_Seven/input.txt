@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-Anand and avg is 50.00
-Bibash and avg is 86.33
-Sita and avg is 72.67
-=======
 Anand 90 40 20
 Bibash 70 90 99
 Sita 90 88 40
->>>>>>> 41c4b79d1e866dcb0b778c2ec948323e2341684e

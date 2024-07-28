@@ -56,4 +56,13 @@ print(tup3)
 tup4=(1,1,1,4,4,5,5,3,3,6,1)
 print(tup4.count(1))
 print('-------------------------------------')
+<<<<<<< HEAD
 print(tup4.index(5))
+<<<<<<< HEAD
+po,opt=(1,2)
+print(po)
+=======
+print(tup4.index(5))
+>>>>>>> 4bc496a08cf94efdc4e95a6eb4d2029e7450923f
+=======
+>>>>>>> 9202b6202aa509456d49f6c5f02f5c04ff129f56

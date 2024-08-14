@@ -19,4 +19,5 @@ a(n,n)//parameter
 
 Types of arguments
 positional arguments->order matters
-keyword arguments ->order doens matters
+keyword arguments ->order does't matters
+

@@ -12,7 +12,7 @@ This is a python language from normal to beginner with django as well lets gooo.
 #float and float gives float
 
 #comparion operator
-#string by (harsn vashisnt) or (corey schafer) string slishing
+#string by (harsn vashisnt) or (corey schafer) string slishing,
 
 we pass arguments and parameters tot he function
 a(n,n)//parameter

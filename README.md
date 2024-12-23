@@ -8,7 +8,7 @@ This is a python language from normal to beginner with django as well lets gooo.
 #implict vvakoe indriect
 #lower case varibale
 #upper case varibable
-#PEMDAS or BADMAS
+#PEMDAS or BADMAS.
 #float and float gives float
 
 #comparion operator

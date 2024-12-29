@@ -1,5 +1,5 @@
 This is a python language from normal to beginner with django as well lets gooo.
-----------------------------------------------------------------------------------------------------NOTES-----------------------------------------------------------------------------
+
 #data type stores the space for varibale
 ## division / gives float so 10/2=5.0
 #^ is a exponential symbol that denotes power
@@ -8,11 +8,11 @@ This is a python language from normal to beginner with django as well lets gooo.
 #implict vvakoe indriect
 #lower case varibale
 #upper case varibable
-#PEMDAS or BADMAS
+#PEMDAS or BADMAS.
 #float and float gives float
 
 #comparion operator
-#string by (harsn vashisnt) or (corey schafer) string slishing
+#string by (harsn vashisnt) or (corey schafer) string slishing,
 
 we pass arguments and parameters tot he function
 a(n,n)//parameter
